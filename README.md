@@ -42,3 +42,4 @@ data/customer_churn.xlsx     Uploaded dataset
 requirements.txt             Dependencies
 README.md                    Instructions
 ```
+# LifelineCustomerChurn
